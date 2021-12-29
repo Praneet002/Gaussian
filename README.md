@@ -16,11 +16,11 @@ Step 5: Print the program.
 
 ## Program:
 ```
-/*
+
 Program to find the solution of a matrix using Gaussian Elimination.
 Developed by: Praneet S
 RegisterNumber: 21500603
-*/
+
 ```
 ~~~
 import numpy as np
